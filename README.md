@@ -1,4 +1,4 @@
 # ankit-daila
 This is my first repository
 <br>
-Autho-Ankit Daila
+Author-Ankit Daila
